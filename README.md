@@ -1,4 +1,4 @@
-**Project Name:** Student Marks Calculator
+**First Project Name:** Student Marks Calculator
 
 **Programming Language:** Python
 
@@ -12,3 +12,12 @@ It was a great journey. I faced many challenges while designing a GUI (graphical
 Must run the program on your machine and enjoy the output. 
 
 It's possible you won't like it, but as a beginner, it's a great step for me towards the development industry.
+
+
+**Second Project Name:** Pizza Sales Dashboard
+
+**Tool:** Power BI
+
+**Description:**
+In this project, I perform analysis and visualization on a dataset that is related to Pizza Sales.
+Such an amazing experience because I created a dynamic dashboard for the first time using a BI tool.
